@@ -199,46 +199,6 @@
         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarvel.fandom.com%2Fwiki%2FJessica_Drew_%2528Earth-616%2529&psig=AOvVaw1v4ApZ0TstJJt2RAh8f26t&ust=1743453812487000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDUpdrVsowDFQAAAAAdAAAAABAE",
         "Habilidades": ["Fuerza y agilidad sobrehumanas", "Vuelo", "Descargas bioeléctricas", "Inmunidad a venenos"],
         "primeraAparicion": "Marvel Spotlight #32 (1977)"
-      },
-      {
-        "id": 26,
-        "alias": "White Rabbit",
-        "realName": "Lorina Dodson",
-        "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Tony_Stark_Iron_Man_Vol_1_10_Spider-Man_Villains_Variant_Textless.jpg/revision/latest?cb=20210112085810",
-        "Habilidades": ["Armas temáticas", "Agilidad acrobática", "Pistolas de energía", "Manipulación"],
-        "primeraAparicion": "The Amazing Spider-Man #131 (1974)"
-      },
-      {
-        "id": 27,
-        "alias": "Madame Web",
-        "realName": "Cassandra Webb",
-        "image_url": "https://static.wikia.nocookie.net/spiderman/images/e/e4/Cassandra_Webb_-_Tierra-616.png/revision/latest?cb=20201011204500&path-prefix=es",
-        "Habilidades": ["Clarividencia", "Percepción extrasensorial", "Conocimiento del futuro", "Telepatía limitada"],
-        "primeraAparicion": "The Amazing Spider-Man #210 (1980)"
-      },
-      {
-        "id": 28,
-        "alias": "Vermin",
-        "realName": "Edward Whelan",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomicvine.gamespot.com%2Fvermin%2F4005-6818%2F&psig=AOvVaw07LGCwDIEkXBtNnoBAUSm_&ust=1743453861391000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCX0vHVsowDFQAAAAAdAAAAABAE",
-        "Habilidades": ["Fuerza sobrehumana", "Control sobre ratas", "Garras afiladas", "Agilidad animal"],
-        "primeraAparicion": "Captain America #272 (1982)"
-      },
-      {
-        "id": 29,
-        "alias": "Boomerang",
-        "realName": "Fred Myers",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3T21sS6t1SEzixEMk_Wx44jC4Wk8-QqVJ9w&s",
-        "Habilidades": ["Maestro de bumeranes", "Agilidad acrobática", "Armas arrojadizas", "Combate cuerpo a cuerpo"],
-        "primeraAparicion": "The Amazing Spider-Man #10 (1964)"
-      },
-      {
-        "id": 30,
-        "alias": "Aunt May",
-        "realName": "May Parker",
-        "image_url": "https://static.wikia.nocookie.net/marvel/images/7/76/May_Reilly_%28Earth-616%29_from_Howard_the_Duck_Vol_6_1_001.jpg/revision/latest?cb=20181117151321&path-prefix=es",
-        "Habilidades": ["Apoyo emocional", "Sabiduría familiar", "Resistencia moral", "Habilidades culinarias"],
-        "primeraAparicion": "Amazing Fantasy #15 (1962)"
       }
     ]
   }
