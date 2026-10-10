@@ -20,16 +20,16 @@ La API organiza los datos en formato JSON para facilitar su consulta e integraci
 
 Cada personaje contiene información como su alias, nombre real, imagen de referencia, habilidades y primera aparición en los cómics.
 
-## ✨ Características
+## Características
 
-- 🕸️ **Catálogo de personajes:** colección de 30 personajes.
-- 🦸 **Información detallada:** alias, nombre real y habilidades.
-- 🖼️ **Imágenes:** URL de referencia para cada personaje.
-- 📚 **Primera aparición:** referencia al cómic y año de publicación.
-- 📦 **Formato JSON:** estructura de datos fácil de consumir desde otras aplicaciones.
-- 🔌 **Integración:** datos que pueden utilizarse en proyectos frontend o backend.
+- **Catálogo de personajes:** colección de 30 personajes.
+- **Información detallada:** alias, nombre real y habilidades.
+- **Imágenes:** URL de referencia para cada personaje.
+- **Primera aparición:** referencia al cómic y año de publicación.
+- **Formato JSON:** estructura de datos fácil de consumir desde otras aplicaciones.
+- **Integración:** datos que pueden utilizarse en proyectos frontend o backend.
 
-## 🦸 Personajes incluidos
+## Personajes incluidos
 
 El catálogo contiene personajes como:
 
@@ -48,7 +48,7 @@ El catálogo contiene personajes como:
 
 El conjunto de datos también incluye otros personajes como Black Cat, Kraven the Hunter, Silk, Spider-Gwen, Spider-Man 2099, Kingpin y Spider-Woman.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 La API utiliza JSON como formato de intercambio de información.
 
@@ -58,7 +58,7 @@ Las tecnologías y herramientas específicas del backend se documentarán de acu
 - **Arquitectura:** API para consulta de información de personajes.
 - **Consumo:** aplicaciones web y clientes HTTP compatibles.
 
-## 📂 Estructura de los datos
+## Estructura de los datos
 
 Cada personaje cuenta con los siguientes campos:
 
@@ -71,7 +71,7 @@ Cada personaje cuenta con los siguientes campos:
 | `Habilidades` | Array de strings | Lista de habilidades o características. |
 | `primeraAparicion` | String | Cómic y año de primera aparición. |
 
-## 📄 Ejemplo de respuesta JSON
+## Ejemplo de respuesta JSON
 
 ```json
 {
@@ -96,7 +96,7 @@ Cada personaje cuenta con los siguientes campos:
 
 > Nota: la URL de imagen del ejemplo es ilustrativa. La respuesta real utiliza las URL configuradas en el proyecto.
 
-## 🚀 Instalación y ejecución
+## Instalación y ejecución
 
 Los siguientes pasos son una guía general. Ajusta los comandos según el lenguaje y framework con el que desarrollaste la API.
 
@@ -129,15 +129,15 @@ Documenta aquí las rutas disponibles en la API.
 
 Los endpoints anteriores son ejemplos de las operaciones que puedes documentar; no representan rutas confirmadas de la implementación actual.
 
-## 🧪 Pruebas
+## Pruebas
 
 Puedes utilizar herramientas como Postman, Insomnia o `curl` para realizar solicitudes HTTP y verificar las respuestas de la API, una vez que el servidor esté configurado y en ejecución.
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto busca organizar información de personajes de Spider-Man mediante una estructura de datos clara y reutilizable, así como servir como base para practicar el desarrollo y consumo de APIs.
 
-## 🔮 Mejoras futuras
+## Mejoras futuras
 
 - [ ] Implementar filtros por alias o nombre real.
 - [ ] Incorporar búsqueda de personajes por ID.
@@ -146,7 +146,7 @@ Este proyecto busca organizar información de personajes de Spider-Man mediante 
 - [ ] Implementar validación de datos y manejo de errores.
 - [ ] Crear una interfaz web para explorar los personajes.
 
-## ⚖️ Aviso legal
+## Aviso legal
 
 Este proyecto es de carácter educativo y no oficial. Spider-Man, Marvel y los personajes relacionados son propiedad de sus respectivos titulares. Las imágenes enlazadas pertenecen a sus respectivas fuentes y titulares de derechos.
 
